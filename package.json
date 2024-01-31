@@ -2,6 +2,7 @@
   "name": "react-app-deploy",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://igormushk.github.io/react-app-deploy/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
